@@ -29,7 +29,7 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
   <a href="https://sasindu-e-blog.netlify.app/" target="_blank">
-     <img src="https://img.shields.io/badge/Blog-black?logo=bloglovin&logoColor=blue" target="_blank" />
+     <img src="https://img.shields.io/badge/Blog-black?style=for-the-badge&logo=bloglovin&logoColor=blue" target="_blank" />
   </a>
 </div>
 
