@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🌱 I’m currently learning **Docker, Spring Boot, AWS**
+ 🌱 I’m currently learning **Docker, Web 3.0 technologies**
 
 💬 Ask me about => **Node.js, React, Next.JS, Firebase, MongoDB, Django, DRF, SQL, ...etc**
 
